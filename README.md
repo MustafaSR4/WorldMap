@@ -1,2 +1,2 @@
 # WorldMap
-Travailing Over Capitals
+tarveling Over Capitals
