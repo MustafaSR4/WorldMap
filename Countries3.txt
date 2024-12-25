@@ -1,0 +1,238 @@
+49, 188
+Washington D.C., 38.9072, -77.0369
+Berlin, 52.5200, 13.4050
+Ottawa, 45.4215, -75.6972
+Ankara, 39.9208, 32.8541
+Beijing, 39.9042, 116.4074
+Moscow, 55.7558, 37.6173
+Algeria, 36.7372, 3.0861
+Tehran, 35.6892, 51.3890
+Paris, 48.8566, 2.3522
+CapeTown, -33.9249, 18.4241
+Oslo, 59.9139, 10.7522
+Stockholm, 59.3293, 18.0686
+Helsinki, 60.1695, 24.9354
+London, 51.5074, -0.1278
+Cairo, 30.0444, 31.2357
+Abu Dhabi, 24.4539, 54.3773
+Riyadh, 24.7136, 46.6753
+Brasilia, -15.8267, -47.9218
+Canberra, -35.2809, 149.1300
+Copenhagen, 55.6761, 12.5683
+Rome, 41.9028, 12.4964
+Kyiv, 50.4501, 30.5234
+Rabat, 34.0209, -6.8416
+Jakarta, -6.2088, 106.8456
+Niamey, 13.5124, 2.1126
+Buenos Aires, -34.6037, -58.3816
+Tokyo, 35.6895, 139.6917
+Madrid, 40.4168, -3.7038
+Athens, 37.9838, 23.7275
+Reykjavik, 64.1355, -21.8954
+Lima, -12.0464, -77.0428
+Luanda, -8.8390, 13.2894
+Abuja, 9.0765, 7.3986
+Mexico City, 19.4326, -99.1332
+Mogadishu, 2.0469, 45.3182
+Islamabad, 33.6844, 73.0479
+Bangkok, 13.7563, 100.5018
+Hanoi, 21.0285, 105.8542
+Baghdad, 33.3152, 44.3661
+Warsaw, 52.2297, 21.0122
+Jerusalem, 31.7683, 35.2137
+N'Djamena, 12.1348, 15.0557
+Dublin, 53.3498, -6.2603
+Wellington, -41.2865, 174.7762
+Santiago, -33.4489, -70.6693
+Seoul, 37.5665, 126.9780
+Brussels, 50.8503, 4.3517
+Amman, 31.9566, 35.9450
+New Delhi, 28.6139, 77.2090
+Washington D.C., Abu Dhabi, 600, 760
+Washington D.C., New Delhi, 400, 840
+Washington D.C., London, 400, 420
+Washington D.C., Amman, 600, 700
+Berlin, Cairo, 370, 240
+Berlin, Athens, 100, 180
+Berlin, Madrid, 50, 180 
+Ottawa, Paris, 750, 420
+Ottawa, Washington D.C., 180, 120
+New Delhi, Abu Dhabi, 160, 250
+New Delhi, London, 280, 540
+Ankara, Amman, 60, 140
+Ankara, Tehran, 50, 150
+Ankara, Berlin, 100, 200
+Beijing, Seoul, 80, 120
+Beijing, Paris, 750, 660
+Beijing, Washington D.C., 1000, 900
+Beijing, Jakarta, 200, 480
+Moscow, Tehran, 300, 480
+Moscow, Bangkok, 600, 540
+Moscow, Kyiv, 100,110
+Moscow, Warsaw, 150, 120
+Algeria, Cairo, 250, 210
+Algeria, Rabat, 100, 60 
+Algeria, CapeTown, 700, 800
+Algeria, Baghdad, 350, 300
+Algeria, Paris, 50, 120
+Tehran, Moscow, 300, 480
+Tehran, Jakarta, 500, 480
+Tehran, Niamey, 700, 600
+Tehran, Baghdad, 200, 90
+Paris, Algeria, 50, 120
+Paris, Abu Dhabi, 700, 400
+Paris, Stockholm, 120, 150
+Paris, Helsinki, 150, 180
+Paris, Bangkok, 600, 660
+Paris, Cairo, 100, 300
+Paris, Seoul, 300, 780
+CapeTown, Ankara, 700, 600
+CapeTown, Washington D.C., 1000, 900
+CapeTown, London, 350, 720
+CapeTown, Islamabad, 800, 780
+Oslo, Madrid, 50, 210
+Oslo, Berlin, 100, 90
+Oslo, Warsaw, 20, 180
+Stockholm, Madrid, 80, 240
+Stockholm, Brussels, 100, 120
+Stockholm, Moscow, 200, 150
+Stockholm, Warsaw, 30, 55
+Stockholm, Amman, 300, 300
+Helsinki, Moscow, 200, 120
+Helsinki, Riyadh, 200, 420
+Helsinki, Ottawa, 700, 500
+Helsinki, Bangkok, 720, 660
+London, Buenos Aires, 1000, 960
+London, Madrid, 80, 180
+London, Rabat, 100, 120
+London, Luanda, 400, 720
+London, Brasilia, 800, 720
+London, Bangkok, 700, 660
+Cairo, Amman, 200, 90
+Cairo, Abuja, 500, 600
+Cairo, Riyadh, 300, 150
+Cairo, Washington D.C., 1000, 720
+Cairo, Luanda, 700, 420
+Abu Dhabi, Brasilia, 1200, 900
+Abu Dhabi, New Delhi, 130, 210
+Abu Dhabi, Washington D.C., 1100, 840
+Abu Dhabi, Wellington, 1300, 1200
+Abu Dhabi, Riyadh, 200, 90
+Abu Dhabi, London, 800, 420
+Abu Dhabi, Madrid, 600, 360
+Abu Dhabi, Islamabad, 100, 180
+Riyadh, Abu Dhabi, 200, 90
+Riyadh, Amman, 300, 120
+Riyadh, Rabat, 500, 360
+Riyadh, Berlin, 900, 420
+Brasilia, Santiago, 200, 300
+Brasilia, Madrid, 600, 660
+Brasilia, Washington D.C., 600, 400
+Brasilia, Ankara, 900, 840
+Canberra, Abuja, 800, 660
+Canberra, CapeTown, 1000, 780
+Canberra, Jakarta, 400, 420
+Copenhagen, Cairo, 300, 300
+Copenhagen, Algeria, 500, 420
+Copenhagen, Abu Dhabi, 400, 360
+Rome, Berlin, 100, 120
+Rome, Abu Dhabi, 800, 480
+Rome, Madrid, 100, 120
+Rome, Reykjavik, 350, 300
+Rome, Helsinki, 120, 200
+Kyiv, Niamey, 400, 660
+Kyiv, Abu Dhabi, 900, 660
+Kyiv, London, 500, 300
+Kyiv, Athens, 600, 250
+Rabat, Moscow, 1200, 11
+Rabat, Rome, 40, 180
+Rabat, Brussels, 30, 180
+Rabat, Riyadh, 600, 420
+Rabat, Abu Dhabi, 800, 480
+Rabat, Algeria, 100, 120
+Jakarta, Abu Dhabi, 400, 480
+Jakarta, London, 800, 660
+Jakarta, Riyadh, 600, 350
+Jakarta, Seoul, 300, 420
+Jakarta, Tokyo, 450, 420
+Niamey, Algeria, 450, 240
+Niamey, N'Djamena, 800, 120
+Niamey, Rabat, 600, 200
+Niamey, Berlin, 800, 900
+Buenos Aires, London, 1200, 960
+Buenos Aires, Mexico City, 1500, 540
+Buenos Aires, Brasilia, 600, 600
+Buenos Aires, Lima, 200, 300
+Tokyo, Cairo, 1000, 900
+Tokyo, Washington D.C., 1300, 780
+Tokyo, Niamey, 1400, 960
+Tokyo, Jakarta, 400, 480
+Tokyo, Madrid, 800, 660
+Madrid, Lima, 700, 500
+Madrid, Riyadh, 900, 600
+Madrid, Seoul, 1200, 900
+Madrid, Amman, 900, 300
+Madrid, Kyiv, 600, 420
+Madrid, Washington D.C., 600, 550
+Athens, Cairo, 300, 240
+Athens, Washington D.C., 750, 720
+Athens, Beijing, 600, 660
+Athens, Amman, 100, 120
+Reykjavik, Oslo, 50, 180
+Reykjavik, London, 40, 160
+Lima, Buenos Aires, 200, 240
+Lima, Mexico City, 150, 360
+Lima, Brasilia, 200, 220
+Lima, Paris, 1000, 720
+Luanda, CapeTown, 550, 240
+Luanda, Paris, 1900, 540
+Abuja, Cairo, 500, 300
+Abuja, Paris, 1100, 420
+Abuja, Islamabad, 800, 780
+Mexico City, Tokyo, 1500, 840
+Mexico City, London, 1100, 720
+Mexico City, Ankara, 900, 600
+Mexico City, Dublin, 500, 780
+Mogadishu, Reykjavik, 1100, 780
+Mogadishu, Paris, 1000, 720
+Islamabad, Beijing, 400, 300
+Islamabad, Washington D.C., 1000, 600
+Islamabad, Paris, 400, 480
+Islamabad, Riyadh, 600, 400
+Bangkok, Wellington, 500, 1000
+Bangkok, Canberra, 400, 900
+Bangkok, Oslo, 1000, 600
+Hanoi, N'Djamena, 1000, 660
+Hanoi, Luanda, 1100, 1000
+Hanoi, Ankara, 900, 600
+Hanoi, New Delhi, 100, 300
+Baghdad, Abu Dhabi, 600, 360
+Baghdad, Tehran, 400, 480
+Warsaw, Bangkok, 1500, 600
+Warsaw, Athens, 500, 300
+Warsaw, Stockholm, 600, 300
+Warsaw, Tokyo, 750, 720
+Jerusalem, Amman, 200, 120
+N'Djamena, Paris, 500, 660
+N'Djamena, Ankara, 600, 600
+Dublin, Moscow, 500, 720
+Dublin, Beijing, 400, 600
+Dublin, Ankara, 100, 150
+Dublin, Paris, 30, 120
+Wellington, Canberra, 200, 500
+Santiago, Brasilia, 300, 300
+Santiago, Lima, 400, 360
+Santiago, Berlin, 1100, 780
+Seoul, Tokyo, 40, 180
+Seoul, Canberra, 300, 900
+Seoul, Dublin, 800, 720
+Seoul, Ankara, 700, 840
+Brussels, Madrid, 30, 150
+Brussels, Mogadishu, 800, 500
+Brussels, Paris, 40, 180
+Brussels, Stockholm, 30, 120
+Amman, Abu Dhabi, 100, 180
+Amman, Jerusalem, 200, 120
+Amman, Madrid, 100, 360
+Amman, Moscow, 700, 720
+Amman, Jakarta, 800, 840
